@@ -166,6 +166,16 @@ sns.pairplot(df)
 
 <img width="687" height="702" alt="Screenshot 2026-11-22 193817" src="https://github.com/user-attachments/assets/42863562-07e4-428c-9412-83239010b46c" />
 
-
+## INTERPRETATION
+1. The Titanic dataset contains 891 rows and 12 columns.
+2. The first 10 records are displayed.
+3. The dataset contains integer, float and object data types.
+4. Missing values are found in Age, Cabin and Embarked columns.
+5. No duplicate records are found in the dataset.
+6. Out of 891 passengers, 342 survived and 549 did not survive.
+7. The survival percentage is 38.38% and the death percentage is 61.62%.
+8. Female passengers had a higher survival rate than male passengers.
+9. The graphs show the distribution of age, fare and passenger class.
+10. The heatmap and pairplot show the relationships between numerical columns.
 # RESULT
         Thus, the Exploratory Data Analysis on the given data set was performed successfully.   
