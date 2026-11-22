@@ -1,9 +1,10 @@
 # EXNO2DS
 # AIM:
-      To perform Exploratory Data Analysis on the given data set.
+
+To perform Exploratory Data Analysis on the given data set.
       
 # EXPLANATION:
-  The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
+The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
 # ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
@@ -178,4 +179,4 @@ sns.pairplot(df)
 9. The graphs show the distribution of age, fare and passenger class.
 10. The heatmap and pairplot show the relationships between numerical columns.
 # RESULT
-        Thus, the Exploratory Data Analysis on the given data set was performed successfully.   
+Thus, the Exploratory Data Analysis on the given data set was performed successfully.   
